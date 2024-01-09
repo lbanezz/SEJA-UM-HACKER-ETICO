@@ -1,5 +1,3 @@
-
-# GUIA DEFINITIVO: Seja um hacker!
 # SEJA UM HACKER DO BEM!
 
 ![](https://pa1.narvii.com/6744/60e6a5d7199177d4d46fd317e1d5da7750e0435b_hq.gif)
